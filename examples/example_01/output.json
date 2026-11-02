@@ -1,0 +1,69 @@
+{
+  "example_id": "example_01",
+  "run_id": "e2645708ba504529b539bb4968db6e28",
+  "input_image": "input_image.jpg",
+  "image_analysis": {
+    "prahar": "Sunset (6PM-9PM)",
+    "prakruti": "Serene",
+    "rasa": "Shanti",
+    "season": "Autumn"
+  },
+  "raag_lookup": [
+    {
+      "rank": 1,
+      "raag": "Puriya Dhanashree"
+    },
+    {
+      "rank": 2,
+      "raag": "Poorvi"
+    },
+    {
+      "rank": 3,
+      "raag": "Puriya"
+    }
+  ],
+  "generated_raag": "Puriya Dhanashree",
+  "generated_audio": {
+    "draft": "generated_draft.mp3",
+    "final": "generated_final.mp3"
+  },
+  "recommendations": {
+    "youtube": [
+      {
+        "raag": "Puriya Dhanashree",
+        "title": "Genius of Begum Parveen Sultana | Raag Puriya Dhanashree | Music of India",
+        "url": "https://www.youtube.com/watch?v=9X3vjQXx7xw",
+        "link_type": "video"
+      },
+      {
+        "raag": "Poorvi",
+        "title": "Ankur - Season 1 Ep 24 | Raag - \"Poorvi\" | Nagesh Adgaonkar",
+        "url": "https://www.youtube.com/watch?v=WxtIvOYAcX8",
+        "link_type": "video"
+      },
+      {
+        "raag": "Puriya",
+        "title": "Raag Puriya Dhanashree | Sanskrati & Prakrati Wahane | Music of India",
+        "url": "https://www.youtube.com/watch?v=bxI-gMlmf-E",
+        "link_type": "video"
+      }
+    ],
+    "spotify": [
+      {
+        "raag": "Puriya Dhanashree",
+        "track_id": "5S9NGXfabmVE5R1c0900mM",
+        "url": "https://open.spotify.com/track/5S9NGXfabmVE5R1c0900mM"
+      },
+      {
+        "raag": "Poorvi",
+        "track_id": "5S9NGXfabmVE5R1c0900mM",
+        "url": "https://open.spotify.com/track/5S9NGXfabmVE5R1c0900mM"
+      },
+      {
+        "raag": "Puriya",
+        "track_id": "24yVwKR0oFkeio1mvH2YxD",
+        "url": "https://open.spotify.com/track/24yVwKR0oFkeio1mvH2YxD"
+      }
+    ]
+  }
+}

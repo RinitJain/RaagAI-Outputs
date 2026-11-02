@@ -1,0 +1,69 @@
+{
+  "example_id": "example_02",
+  "run_id": "ef2bbbaac37449b6b8889fe9734d3ff7",
+  "input_image": "input_image.jpg",
+  "image_analysis": {
+    "prahar": "Early Morning (6AM-9AM)",
+    "prakruti": "Calm",
+    "rasa": "Shanti",
+    "season": "Spring"
+  },
+  "raag_lookup": [
+    {
+      "rank": 1,
+      "raag": "Bahar"
+    },
+    {
+      "rank": 2,
+      "raag": "Basant"
+    },
+    {
+      "rank": 3,
+      "raag": "Kafi"
+    }
+  ],
+  "generated_raag": "Bahar",
+  "generated_audio": {
+    "draft": "generated_draft.mp3",
+    "final": "generated_final.mp3"
+  },
+  "recommendations": {
+    "youtube": [
+      {
+        "raag": "Bahar",
+        "title": "Raag Bahaar based hindi film songs",
+        "url": "https://www.youtube.com/watch?v=fgtCdX0N4gs",
+        "link_type": "video"
+      },
+      {
+        "raag": "Basant",
+        "title": "Raga Basant - Peace | Pandit Shiv Kumar Sharma | (Ragas For Relaxation) | Music Today",
+        "url": "https://www.youtube.com/watch?v=eapl_XTpfBU",
+        "link_type": "video"
+      },
+      {
+        "raag": "Kafi",
+        "title": "Raag Kafi | Pt. Venkatesh Kumar | Pt. Swapan Chaudhuri | Concert In Kolkata",
+        "url": "https://www.youtube.com/results?search_query=Raag+Kafi+%7C+Pt.+Venkatesh+Kumar+%7C+Pt.+Swapan+Chaudhuri+%7C+Concert+In+Kolkata",
+        "link_type": "search"
+      }
+    ],
+    "spotify": [
+      {
+        "raag": "Bahar",
+        "track_id": "1q2u68eoyrRJj9NeJMfqJ8",
+        "url": "https://open.spotify.com/track/1q2u68eoyrRJj9NeJMfqJ8"
+      },
+      {
+        "raag": "Basant",
+        "track_id": "7gEWhEOIZ7Pff8toGwtg8X",
+        "url": "https://open.spotify.com/track/7gEWhEOIZ7Pff8toGwtg8X"
+      },
+      {
+        "raag": "Kafi",
+        "track_id": "3uj1RSg4VYc48fw39LAEnu",
+        "url": "https://open.spotify.com/track/3uj1RSg4VYc48fw39LAEnu"
+      }
+    ]
+  }
+}

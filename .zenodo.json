@@ -1,0 +1,45 @@
+{
+  "title": "RaagAI-Outputs: Example Outputs of Image-to-Raga Music Generation",
+  "upload_type": "dataset",
+  "description": "Complete outputs of three end-to-end runs of RaagAI, a system that infers the time of day, mood and season of a photograph, chooses suitable Hindustani ragas from the RaagKG knowledge graph, composes a new piece in the first-ranked raga (GPT-5 writes code that produces MIDI, rendered with FluidSynth), and recommends existing recordings on YouTube and Spotify. Each run includes the input photo, the image analysis, the ragas returned, the recommendations and the draft and final generated audio.",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Joshi, Advait",
+      "affiliation": "Pune Institute of Computer Technology"
+    },
+    {
+      "name": "Jain, Rinit",
+      "affiliation": "Pune Institute of Computer Technology"
+    },
+    {
+      "name": "Mahajan, Tirthraj",
+      "affiliation": "Pune Institute of Computer Technology"
+    },
+    {
+      "name": "Joshi, Raviraj",
+      "affiliation": "L3Cube Labs, Pune"
+    },
+    {
+      "name": "Sonawane, Sheetal",
+      "affiliation": "Pune Institute of Computer Technology"
+    }
+  ],
+  "keywords": [
+    "Hindustani classical music",
+    "raga",
+    "music generation",
+    "MIDI",
+    "knowledge graph",
+    "multimodal"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23813360",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ],
+  "version": "1.0.0"
+}

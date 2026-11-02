@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these outputs, please cite them as below."
+title: "RaagAI-Outputs: Example Outputs of Image-to-Raga Music Generation"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-02
+license: CC-BY-4.0
+authors:
+  - given-names: Advait
+    family-names: Joshi
+  - given-names: Rinit
+    family-names: Jain
+  - given-names: Tirthraj
+    family-names: Mahajan
+  - given-names: Raviraj
+    family-names: Joshi
+    affiliation: "L3Cube Labs, Pune"
+  - given-names: Sheetal
+    family-names: Sonawane
+    affiliation: "Pune Institute of Computer Technology"
+keywords:
+  - Hindustani classical music
+  - raga
+  - music generation
+  - MIDI
+  - knowledge graph
+  - multimodal
+references:
+  - type: dataset
+    title: "RaagKG: A Knowledge Graph of Hindustani Ragas"
+    doi: 10.5281/zenodo.23813360

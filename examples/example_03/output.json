@@ -1,0 +1,69 @@
+{
+  "example_id": "example_03",
+  "run_id": "5b88fd02b5bd489e846c4b05e25fcef7",
+  "input_image": "input_image.jpg",
+  "image_analysis": {
+    "prahar": "Sunset (6PM-9PM)",
+    "prakruti": "Tranquil",
+    "rasa": "Shanti",
+    "season": "Monsoon"
+  },
+  "raag_lookup": [
+    {
+      "rank": 1,
+      "raag": "Des"
+    },
+    {
+      "rank": 2,
+      "raag": "Gaud Malhar"
+    },
+    {
+      "rank": 3,
+      "raag": "Miyan Ki Malhar"
+    }
+  ],
+  "generated_raag": "Des",
+  "generated_audio": {
+    "draft": "generated_draft.mp3",
+    "final": "generated_final.mp3"
+  },
+  "recommendations": {
+    "youtube": [
+      {
+        "raag": "Des",
+        "title": "Raga Des | Hariprasad Chaurasia (Album: Krishnadhwani ) | Music Today",
+        "url": "https://www.youtube.com/results?search_query=Raga+Des+%7C+Hariprasad+Chaurasia+%28Album%3A+Krishnadhwani+%29+%7C+Music+Today",
+        "link_type": "search"
+      },
+      {
+        "raag": "Gaud Malhar",
+        "title": "Raag Gaud-Malhar | Apoorva Gokhale | Pancham Nishad - Malhar Rang",
+        "url": "https://www.youtube.com/results?search_query=Raag+Gaud-Malhar+%7C+Apoorva+Gokhale+%7C+Pancham+Nishad+-+Malhar+Rang",
+        "link_type": "search"
+      },
+      {
+        "raag": "Miyan Ki Malhar",
+        "title": "Bole Re Papihara - Raag Miya ki Malhar - Ashwini Bhide Deshpande",
+        "url": "https://www.youtube.com/results?search_query=Bole+Re+Papihara+-+Raag+Miya+ki+Malhar+-+Ashwini+Bhide+Deshpande",
+        "link_type": "search"
+      }
+    ],
+    "spotify": [
+      {
+        "raag": "Des",
+        "track_id": "50DxyniiYxcOKkCtySsmSA",
+        "url": "https://open.spotify.com/track/50DxyniiYxcOKkCtySsmSA"
+      },
+      {
+        "raag": "Gaud Malhar",
+        "track_id": "06Ld0IMvfAsEaTWBGoxkDt",
+        "url": "https://open.spotify.com/track/06Ld0IMvfAsEaTWBGoxkDt"
+      },
+      {
+        "raag": "Miyan Ki Malhar",
+        "track_id": "0tNFDFeMbTGJzrFwB0MhPR",
+        "url": "https://open.spotify.com/track/0tNFDFeMbTGJzrFwB0MhPR"
+      }
+    ]
+  }
+}
