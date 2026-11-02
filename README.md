@@ -1,5 +1,7 @@
 # RaagAI-Outputs
 
+[![DOI](https://zenodo.org/badge/1442937365.svg)](https://doi.org/10.5281/zenodo.23885091)
+
 Example outputs from **RaagAI**, a system that turns a photograph into Hindustani
 classical music. Given an image, RaagAI infers its
 time of day, mood and season, chooses suitable ragas from the RaagKG
